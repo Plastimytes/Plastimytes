@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Python 
 - 💞️ I’m looking to collaborate on nothing yet really 
 - 📫 How to reach me here and maybe Whatsapp 
-- 😄 Pronouns: He
+- 😄 Pronouns: He/Him
 - ⚡ Fun fact: If a human had the strength to body mass equivalent of a flea's he or she could leap over buildings
 
 <!---
