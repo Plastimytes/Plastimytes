@@ -15,12 +15,12 @@ You can click the Preview link to take a look at your changes.
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Plastimytes&layout=compact&show_icons=true&theme=dracula" />
 <img src="https://github-readme-stats.vercel.app/api/commit-activity/?username=Plastimytes&layout=compact&show_icons=true&&theme=dracula" />
 
-# 💻 My favorite tools and technologies
+# 💻 Tools and technologies I use or hope to use
 <div style="display: flex; align-items: flex-start; align: center">
 <table align="center">
   <tr>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" />
+        <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" theme=dracula"/>
       <br>React
     </td>
     <td align="center" width="96">
