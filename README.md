@@ -11,6 +11,6 @@ Plastimytes/Plastimytes is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
 <img src="https://github-readme-stats.vercel.app/api?username=Plastimytes&theme=radical" alt="Plastimyte's GitHub stats" />
-<img src="https://github-readme-stats.vercel.app/api?username=Plastimytes&theme=radical" alt="GitHub Stats" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Plastimytes&layout=pie" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Plastimytes&layout=pie&theme=dracula&hide=prs,issues" />
+<img src="https://github-readme-stats.vercel.app/api?username=Plastimytes&show_icons=true&theme=dracula" />
+<img src="https://github-readme-stats.vercel.app/api/commit-activity?username=Plastimytes&theme=dracula" />
