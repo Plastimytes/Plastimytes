@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Plastimytes
 - 👀 I’m interested in learning new things 
-- 🌱 I’m currently learning Python 
+- 🌱 I’m currently learning Python,web design and a few other things 
 - 💞️ I’m looking to collaborate on nothing yet really 
-- 📫 How to reach me here and maybe Whatsapp 
+- 📫 How to reach me here Whatsapp, LinkedIn and maybe in real life?😅
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: If a human had the strength to body mass equivalent of a flea's he or she could leap over buildings
 
