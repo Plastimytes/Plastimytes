@@ -10,6 +10,11 @@
 Plastimytes/Plastimytes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Plastimytes&theme=transparent) 
+
+
 <img src="https://github-readme-stats.vercel.app/api?username=Plastimytes&show_icons=true&theme=dracula" />
 <img src="https://github-readme-stats.vercel.app/api/streak-stats/?username=Plastimytes&layout=compact&show_icons=true&theme=dracula" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Plastimytes&layout=compact&show_icons=true&theme=dracula" />
@@ -105,7 +110,7 @@ You can click the Preview link to take a look at your changes.
 
 
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Plastimytes&theme=transparent) 
+
 
 
         
