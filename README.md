@@ -21,7 +21,7 @@ You can click the Preview link to take a look at your changes.
 <img src="https://github-readme-stats.vercel.app/api/commit-activity/?username=Plastimytes&layout=compact&show_icons=true&&theme=dracula" />
 
 # 💻 Tools and technologies I use or hope to use
-<div style="display: flex; align-items: flex-start; align: center">
+<div style="display: flex; align-items: flex-start; align: center, background:black">
 <table align="center">
   <tr>
     <td align="center" width="96">
